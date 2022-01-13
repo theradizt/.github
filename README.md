@@ -4,7 +4,7 @@ I don't wanna reveal my age. (I'm a minor.)
 
 My zodiac sign is Taurus.
 
-My pronouns are (he/they)
+My pronouns are (he/him/they)
 
 I am straight.
 
