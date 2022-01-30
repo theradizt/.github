@@ -18,6 +18,4 @@ I can only respond during my lunch break (11:50pm) and after school ends (3:00pm
 
 Or if it's Tuesday, (I have no school on Tuesday.) I can respond.
 
-Tomorrow will be a really busy day for me because I have like 11+ assignments for me to do.
-
 And that's about it for this small introduction to myself!
