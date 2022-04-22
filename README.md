@@ -12,6 +12,8 @@ And my birthday is May 4th!
 
 I'm into FNF and many other fandoms.
 
-> ### **CURRENTLY ON SPRING BREAK**
+Also, I have school. This means that I might be slow to respond.
+
+I can only respond during my lunch break (11:50pm) and after school ends (3:00pm).
 
 And that's about it for this small introduction to myself!
