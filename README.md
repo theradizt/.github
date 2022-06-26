@@ -12,8 +12,60 @@ And my birthday is May 4th!
 
 I'm into FNF and many other fandoms.
 
-**(FUCK YEA IM AT SUMMER BREAK BITCH)**
+**(FUCK YEA IM AT SUMMER BREAK BITCH) (2 MONTHS I THNIK BEFORE SUMMER ENDS D:)** 
 
-sorry. not sorry lol
+> ### sorry. not sorry lol
 
 And that's about it for this small introduction to myself!
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+bitch
