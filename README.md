@@ -7,7 +7,7 @@ My zodiac sign is Taurus.
 My pronouns are (he/him/they/them)
 
 I am Aroace! :D
-> before i was straight btw
+> before i was straight but now im aroace
 
 And my birthday is May 4th!
 
