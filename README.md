@@ -13,7 +13,7 @@ And my birthday is May 4th!
 
 I'm into FNF and many other fandoms.
 
-**(FUCK YEA IM AT SUMMER BREAK) (2 MONTHS I THNIK BEFORE SUMMER ENDS D:)** 
+**(FUCK YEA IM AT SUMMER BREAK) (1 MONTH BEFORE SUMMER ENDS)** 
 
 .
 
@@ -22,6 +22,8 @@ I'm into FNF and many other fandoms.
 .
 
 And that's about it for this small introduction to myself!
+
+> ### edit: i have covid and the flu now :(
 
 .
 
