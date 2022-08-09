@@ -13,13 +13,7 @@ And my birthday is May 4th!
 
 I'm into FNF and many other fandoms.
 
-**(FUCK YEA IM AT SUMMER BREAK) (1 MONTH BEFORE SUMMER ENDS)** 
-
-.
-
-> ### **sorry. not sorry lol**
-
-.
+school starts for me today (cool)
 
 And that's about it for this small introduction to myself!
 
