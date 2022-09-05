@@ -69,4 +69,4 @@ And that's about it for this small introduction to myself!
 
 .
 
-so how are you
+its been forever since ive used github lol
