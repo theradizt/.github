@@ -13,11 +13,11 @@ And my birthday is May 4th!
 
 I'm into FNF and many other fandoms.
 
-school starts for me today (cool)
+I have school (cool)
 
 And that's about it for this small introduction to myself!
 
-> ### edit: i have covid and the flu now :(
+> ### edit: nvm im fine (forgot to edit this)
 
 .
 
