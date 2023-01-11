@@ -12,7 +12,7 @@ And my birthday is May 4th!
 
 I'm into FNF and many other fandoms.
 
-I am on winter break now (cool)
+I have school now again (cool)
 
 And that's about it for this small introduction to myself!
 
