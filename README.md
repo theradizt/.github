@@ -1,27 +1,21 @@
-Hi! I'm Zack.
+hi!!!!
 
-I don't wanna reveal my age. (I'm a minor.)
+i am zack!!!!
 
-My zodiac sign is Taurus.
+i am aroace!!!!!
 
-My pronouns are (he/him/they/them)
+me birthday is may 4th!!!!
 
-I am Aroace! :D
+![yolo](https://github.com/lowqualitypotato/lowqualitypotato)
 
-And my birthday is May 4th!
+![yolo](https://github.com/lowqualitypotato/lowqualitypotato)
 
-I'm into FNF and many other fandoms.
+i am into fnf and many other fandoms!!!
 
-I have school now again (cool)
+and i love cheese
 
-And that's about it for this small introduction to myself!
+![yolo](https://github.com/lowqualitypotato/lowqualitypotato)
 
-.
+![yolo](https://github.com/lowqualitypotato/lowqualitypotato)
 
-.
-
-.
-
-.
-
-its been forever since i have used github
+ok thank you for reading this lol
