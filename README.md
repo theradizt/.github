@@ -12,7 +12,9 @@ me birthday is may 4th!!!!
 
 i am into fnf and many other fandoms!!!
 
-and i love cheese
+i love cheese!!!!
+
+and i rarely go to github!!!
 
 ![yolo](https://github.com/lowqualitypotato/lowqualitypotato)
 
