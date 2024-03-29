@@ -1,13 +1,15 @@
-hi!!!!
+# HELLO :)
 
-i am zack!!!!
+i am zack!
 
-i am aroace!!!!!
+my brithday is may 4th!!  
+> (may the fourth be with you /j)
 
-me birthday is may 4th!!!
+i am into other fandoms!
+>  (especially fnf)
 
-i am into fnf and many other fandoms!!!
+i go by he/they!
 
-and i love cheese!!!!
+i am aroace!
 
-ok thank you for reading this lol
+and thats it!
