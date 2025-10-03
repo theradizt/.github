@@ -2,11 +2,13 @@
   <img src="https://media1.tenor.com/m/EA1PaEf0qEAAAAAd/lbp3-little-big-planet.gif" width="150" height="150"/>
 
   <h1 align="center">
-    Hi! I'm Zack!!<br>:D
+    Hellooo!!<br>: D
   </h1>
 </p>
 
 ### [ABOUT ME]:
+- I'm **Zack**!
+
 - 🎂: **May 4th** (♉)
 - **Artist**
 - **Aroace**
