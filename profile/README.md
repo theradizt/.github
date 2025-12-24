@@ -10,8 +10,7 @@
 - I'm **Zack**!
 
 - 🎂: **May 4th** (♉)
-- **Artist / Programmer
-**
+- **Artist / Programmer**
 - **Aroace**
 - **AuDHD**
 - **INFP-T**
