@@ -10,7 +10,8 @@
 - I'm **Zack**!
 
 - 🎂: **May 4th** (♉)
-- **Artist**
+- **Artist / Programmer
+**
 - **Aroace**
 - **AuDHD**
 - **INFP-T**
@@ -23,7 +24,7 @@
     <img src="https://img.logo.dev/chiikawaofficial.com?token=pk_YCKQpIVDSlqVK3fN3lkkAg&retina=true" width="20"/> *Chiikawa*  
     <img src="https://img.logo.dev/wikirby.com?token=pk_YCKQpIVDSlqVK3fN3lkkAg&retina=true" width="20"/> *Kirby*  
     <img src="https://github.com/user-attachments/assets/0b76f35b-4bd0-410f-921e-feab84d9de66" width="20"/> *LittleBigPlanet*  
-    <img src="https://fridaynightfunkin.wiki.gg/images/FNF_logo.png" width="20"/> *Friday Night Funkin’*  
+    <img src="https://github.com/user-attachments/assets/9b3a0186-7746-416a-8015-94429d270753" width="20"/> *Friday Night Funkin’*  
     <img src="https://github.com/user-attachments/assets/32ebbda7-f502-4e54-90f3-bdf94475ed6d" width="20"/> *Sonic*
   <br>
   <br>
