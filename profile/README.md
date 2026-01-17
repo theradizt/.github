@@ -14,20 +14,27 @@
 - **Aroace**
 - **AuDHD**
 - **INFP-T**
-- **Multifandom**:
-  <br>
-  PRIMARY:
-  <br>
-    <img src="https://i.gyazo.com/a4abc5fdb965d1b97db38453012efc73.png" width="20"/> *Minecraft*  
-    <img src="https://img.logo.dev/roblox.com?token=pk_YCKQpIVDSlqVK3fN3lkkAg&retina=true" width="20"/> *Roblox*  
-    <img src="https://img.logo.dev/chiikawaofficial.com?token=pk_YCKQpIVDSlqVK3fN3lkkAg&retina=true" width="20"/> *Chiikawa*  
-    <img src="https://img.logo.dev/wikirby.com?token=pk_YCKQpIVDSlqVK3fN3lkkAg&retina=true" width="20"/> *Kirby*  
-    <img src="https://github.com/user-attachments/assets/0b76f35b-4bd0-410f-921e-feab84d9de66" width="20"/> *LittleBigPlanet*  
-    <img src="https://github.com/user-attachments/assets/9b3a0186-7746-416a-8015-94429d270753" width="20"/> *Friday Night Funkin’*  
-    <img src="https://github.com/user-attachments/assets/32ebbda7-f502-4e54-90f3-bdf94475ed6d" width="20"/> *Sonic*
-  <br>
-  <br>
-  There's more that I cannot list here because it would be too long.. :P
+- **Multifandom**
+
+<details>
+  <summary>Here's all my current interests!</summary>
+
+| Icon | Interest |
+| :---: | :------ |
+| <img src="https://img.logo.dev/minecraft.net?token=pk_YCKQpIVDSlqVK3fN3lkkAg&retina=true" width="48"/> | Minecraft |
+| <img src="https://github.com/user-attachments/assets/5798b5ee-1bbf-4e0d-af9a-d88f4aa04d2e" width="48"/> | RōBLOX |
+| <img src="https://img.logo.dev/chiikawaofficial.com?token=pk_YCKQpIVDSlqVK3fN3lkkAg&retina=true" width="48"/> | Chiikawa |
+| <img src="https://img.logo.dev/wikirby.com?token=pk_YCKQpIVDSlqVK3fN3lkkAg&retina=true" width="48"/> | Kirby |
+| <img src="https://github.com/user-attachments/assets/0b76f35b-4bd0-410f-921e-feab84d9de66" width="48"/> | LittleBigPlanet |
+| <img src="https://github.com/user-attachments/assets/9b3a0186-7746-416a-8015-94429d270753" width="48"/> | Friday Night Funkin’ |
+| <img src="https://github.com/user-attachments/assets/32ebbda7-f502-4e54-90f3-bdf94475ed6d" width="48"/> | Sonic the Hedgehog |
+| <img src="https://github.com/user-attachments/assets/1a68f2c3-25bb-4aac-8e91-1b8e70f635bd" width="48"/> | Garry's Mod |
+| <img src="https://github.com/user-attachments/assets/78376bf9-dd41-4898-84ff-342c8b7cf9ae" width="48"/> | Left 4 Dead |
+| <img src="https://img.logo.dev/bendymerch.com?token=pk_YCKQpIVDSlqVK3fN3lkkAg&retina=true" width="48"/> | Bendy |
+| <img src="https://github.com/user-attachments/assets/70634576-1f1a-4919-8ec7-289184b84c30" width="48"/> | Earthbound / MOTHER |
+
+</details>
+
 
 ---
 
@@ -37,7 +44,9 @@
   <img src="https://skillicons.dev/icons?i=lua,haxe,python,js,html,css" />
 </p>
 
+
 ---
+
 
 ### [MY SOCIALS / WHERE YOU CAN FIND ME]:
 <p align="left">
@@ -55,7 +64,9 @@
   </a>
 </p>
 
+
 ---
+
 
 <p align="center">
   <img src="https://media1.tenor.com/m/lt2zYKuEiNAAAAAC/chiikawa-chiikawa-dance.gif" width="150" height="150"/>
