@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/EA1PaEf0qEAAAAAd/lbp3-little-big-planet.gif" width="150" height="150"/>
+  <img src="https://static.klipy.com/ii/c3a19a0b747a76e98651f2b9a3cca5ff/e1/32/jCKoMpYk.gif" width="150" height="150"/>
 
   <h1 align="center">
     Hellooo!!<br>: D
@@ -69,8 +69,8 @@
 
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/lt2zYKuEiNAAAAAC/chiikawa-chiikawa-dance.gif" width="150" height="150"/>
-  <img src="https://media1.tenor.com/m/m71PyoRXPIIAAAAd/dj-sonic.gif" width="150" height="150"/>
+  <img src="https://static.klipy.com/ii/935d7ab9d8c6202580a668421940ec81/92/1d/VLWkJJ80.gif" width="150" height="150"/>
+  <img src="https://static.klipy.com/ii/4e7bea9f7a3371424e6c16ebc93252fe/22/f0/NtXw46BJj9zY3L9wD.gif" width="150" height="150"/>
 
   <h1 align="center">
     Have a wonderful day!
