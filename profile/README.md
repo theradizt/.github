@@ -2,11 +2,11 @@
   <img src="https://static.klipy.com/ii/c3a19a0b747a76e98651f2b9a3cca5ff/e1/32/jCKoMpYk.gif" width="150" height="150"/>
 
   <h1 align="center">
-    Hellooo!!<br>: D
+    Hellooo!!<br/ >: D
   </h1>
 </p>
 
-### [ABOUT ME]:
+### ✦ ˚ . ABOUT ME ˚ ✦
 - I'm **Zack**!
 
 - 🎂: **May 4th** (♉)
@@ -17,7 +17,7 @@
 - **Multifandom**
 
 <details>
-  <summary>Here's all my current interests!</summary>
+  <summary>Here's some of the things I'm currently interested in!!</summary>
 
 | Icon | Interest |
 | :---: | :------ |
@@ -39,7 +39,7 @@
 ---
 
 
-### [TECH I USE]:
+### ✦ ˚ . PROGRAMMING LANGUAGES ˚ ✦:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=lua,haxe,python,js,html,css" />
 </p>
@@ -48,7 +48,7 @@
 ---
 
 
-### [MY SOCIALS / WHERE YOU CAN FIND ME]:
+### ✦ ˚ . WHERE YOU CAN FIND ME ˚ ✦:
 <p align="left">
   <a href="https://youtube.com/@radicalbingeese">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
@@ -69,10 +69,11 @@
 
 
 <p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=theradizt&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" /><br />
   <img src="https://static.klipy.com/ii/935d7ab9d8c6202580a668421940ec81/92/1d/VLWkJJ80.gif" width="150" height="150"/>
   <img src="https://static.klipy.com/ii/4e7bea9f7a3371424e6c16ebc93252fe/22/f0/NtXw46BJj9zY3L9wD.gif" width="150" height="150"/>
 
   <h1 align="center">
-    Have a wonderful day!
+    Have a wonderful day! (˶ᐢ ᵕ ᐢ˶)
   </h1>
 </p>
