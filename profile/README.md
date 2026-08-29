@@ -10,11 +10,9 @@
 - I'm **Zack**!
 
 - 🎂: **May 4th** (♉)
-- **Artist / Programmer**
 - **Aroace**
 - **AuDHD**
 - **INFP-T**
-- **Multifandom**
 
 <details>
   <summary>Here's some of the things I'm currently interested in!!</summary>
