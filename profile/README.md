@@ -6,7 +6,7 @@
   </h1>
 </p>
 
-### ✦ ˚ . ABOUT ME ˚ ✦
+### ✦ ˚ ABOUT ME ˚ ✦
 - I'm **Zack**!
 
 - 🎂: **May 4th** (♉)
@@ -37,7 +37,7 @@
 ---
 
 
-### ✦ ˚ . PROGRAMMING LANGUAGES ˚ ✦:
+### ✦ ˚ PROGRAMMING LANGUAGES ˚ ✦:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=lua,haxe" />
 </p>
