@@ -17,7 +17,7 @@
 <details>
   <summary>Here's some of the things I'm currently interested in!!</summary>
 
-| Icon | Interest |
+| Icon | Name |
 | :---: | :------ |
 | <img src="https://img.logo.dev/minecraft.net?token=pk_YCKQpIVDSlqVK3fN3lkkAg&retina=true" width="48"/> | Minecraft |
 | <img src="https://github.com/user-attachments/assets/5798b5ee-1bbf-4e0d-af9a-d88f4aa04d2e" width="48"/> | RōBLOX |
