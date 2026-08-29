@@ -67,7 +67,6 @@
 
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=theradizt&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" /><br />
   <img src="https://static.klipy.com/ii/935d7ab9d8c6202580a668421940ec81/92/1d/VLWkJJ80.gif" width="150" height="150"/>
   <img src="https://static.klipy.com/ii/4e7bea9f7a3371424e6c16ebc93252fe/22/f0/NtXw46BJj9zY3L9wD.gif" width="150" height="150"/>
 
