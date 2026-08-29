@@ -41,7 +41,7 @@
 
 ### ✦ ˚ . PROGRAMMING LANGUAGES ˚ ✦:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=lua,haxe,python,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=lua,haxe" />
 </p>
 
 
